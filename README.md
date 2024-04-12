@@ -16,10 +16,3 @@ To use InfiniteImager, simply open the webpage in a browser. As you scroll down 
 
 The project utilizes the [Random Image API](https://random.imagecdn.app/v1/image?width=600&height=400) to fetch random images. Each time the API endpoint is called, it returns a random image with a width of 600 pixels and a height of 400 pixels.
 
-## Installation
-
-There is no installation required for InfiniteImager. However, if you want to modify or run the project locally, you can clone the repository and open the index.html file in a web browser.
-
-```bash
-git clone <repository-url>
-cd InfiniteImager
